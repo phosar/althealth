@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
 
-    <title>Quality Health</title>
+    <title>Quality Health clinic</title>
   </head>
   <body>
   
