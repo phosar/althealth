@@ -1,0 +1,14 @@
+.wrapper-container{
+    margin: 20px auto 20px auto;
+}
+
+.main-container{
+    border: 1px solid blue;
+    background: white;
+}
+
+body{
+    background: -webkit-linear-gradient(blue, green) no-repeat;
+    background: -moz-linear-gradient(blue, green) no-repeat;
+    background: linear-gradient(blue, green) no-repeat;
+}
